@@ -1,7 +1,10 @@
-**payment-per-service** is a Meteor package to drop in a pay-per-service payment page.
+payment-per-service
+==============================
 
-------------------------
-### Installation
+Meteor package to drop in a pay-per-service payment page using the Stripe API.
+
+==============================
+#### Installation
 
 A.  Clone the repo to your local computer.
 
@@ -25,14 +28,7 @@ D.  Edit copy and parameters to suite your business needs.
 E.  Maybe update the email template.
 F.  Publish
 
-------------------------
+==============================
 ### Licensing
 
 MIT License. Use as you wish, including for commercial purposes.
-
-------------------------
-### Support
-Found this package to be useful?  Consider tipping the package maintainer for their time!  
-
-[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
-
