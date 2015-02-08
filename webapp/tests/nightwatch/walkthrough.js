@@ -9,7 +9,7 @@ module.exports = {
     .verify.elementPresent("#navbarHeader")
     .verify.elementPresent("#navbarHeaderNav")
     .verify.elementPresent("#mainPanel")
-    .verify.elementPresent("#emailPage")
+    .verify.elementPresent("#chargePage")
     .verify.elementPresent("#navbarFooter")
     .verify.elementPresent("#navbarFooterNav")
 
