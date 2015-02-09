@@ -3,13 +3,18 @@ payment-per-service
 
 Meteor package to drop in a pay-per-service payment page using the Stripe API.
 
+![travis-build](https://travis-ci.org/awatson1978/payment-per-service.svg?branch=master)
+
 ==============================
 #### Installation
 
 A.  Clone the repo to your local computer.
 
 ````js
-git clone https://github.com/awatson1978/payment-per-service.git payment-subscription
+git clone https://github.com/awatson1978/payment-per-service.git
+cd payment-subscription
+
+meteor
 ````
 
 B.  Create your Stripe Account at https://manage.stripe.com/account  
